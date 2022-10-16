@@ -29,6 +29,6 @@ Post.init({
 {
     sequalize, 
     freeTableName: true,
-    underscored, true, 
+    underscored: true, 
     modelName: 'post'
 })
