@@ -31,4 +31,6 @@ Post.init({
     freeTableName: true,
     underscored: true, 
     modelName: 'post'
-})
+});
+
+module.exports = Post;
