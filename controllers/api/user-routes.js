@@ -173,7 +173,7 @@ module.exports = router;
     //     .status(400)
     //     .json({ message: 'Incorrect email or password, please try again' });
     //   return;
-    }
+    
 
     // TODO: Add a comment describing the functionality of this method
 //     req.session.save(() => {
